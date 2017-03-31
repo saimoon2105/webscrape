@@ -1,4 +1,5 @@
-# amazon-nike compare
+# webscrape (amazon-nike compare)
+https://github.com/saimoon2105/webscrape
 
 ## General Overview
 The purpose of this program is to collect and display information for different nike products from amazon.com and nike.com. By simply entering a product name, the user can check out available products, their prices and ratings or product type from these two websites.
